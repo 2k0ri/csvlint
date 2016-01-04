@@ -1,0 +1,6 @@
+{
+	"Arch": "386,amd64",
+	"Os": "linux,darwin,windows",
+	"PackageVersion": "0.1.0",
+	"ConfigVersion": "0.9"
+}
